@@ -1,0 +1,19 @@
+================================================================================
+CollabDocs - Assessment Video Walkthrough URL
+================================================================================
+
+Please paste your recorded public video walkthrough link below (e.g., Loom, YouTube unlisted):
+
+WALKTHROUGH_URL: https://www.loom.com/share/e634792a99c6442690c3287fa72d9b0e
+PROJECT_DRIVE_URL: https://drive.google.com/file/d/1UcAYrXgZWZYmXmW4LRg___Aw89N3k6qz/view?usp=sharing
+
+Notes for Reviewer:
+- The video walkthrough covers:
+  1. Demo user sign-in and quick-account switching (Alice -> Bob).
+  2. Document creation, inline renaming, and rich-text editing (bold, italic, underline, headings, lists, blockquotes).
+  3. Debounced autosave with live status indicator ("Saving...", "Saved", "Unsaved changes") and manual save.
+  4. File import (.md / .txt) with automatic parsing into structured TipTap nodes.
+  5. Granular role-based sharing (Owner vs Editor vs Viewer) with server-side authorization enforcement.
+  6. Document export (.md, .txt, .json).
+================================================================================
+
